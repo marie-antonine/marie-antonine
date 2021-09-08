@@ -1,0 +1,25 @@
+
+body {
+	background: rgb(200, 200, 200);
+	font-family: initial;
+	color: white;
+	text-align: center;
+}
+h1 {
+	font-family: initial;
+	color: ivory;
+}
+h2{
+	color: whitesmoke;
+}
+
+.img-circle{
+	border-radius: 100%;
+}
+.card-white{
+	background: darkred;
+	padding: 40px;
+	margin: 40px;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px;
+}
